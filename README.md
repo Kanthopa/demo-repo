@@ -1,3 +1,2 @@
-# Demo-repo //this is my first repo, the hashtag is used for headings
-
-First repo
+# Demo-repo 
+This is my first repo, the hashtag is used for headings
